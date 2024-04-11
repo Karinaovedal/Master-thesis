@@ -1,0 +1,25 @@
+ID,Sample_Name,Type,Phenotype
+M01,FA_01,Control,M01
+M02,FA_02,Control,M01
+M03,FA_03,Control,M01
+M11,FA_04,Untreated ,M11
+M12,FA_05,Untreated ,M11
+M13,FA_06,Untreated ,M11
+M1P1,FA_07,Treated ,M1P
+M1P2,FA_08,Treated ,M1P
+M1P3,FA_09,Treated ,M1P
+M04,FA_10,Control ,M02
+M05,FA_11,Control ,M02
+M06,FA_12,Control ,M02
+M21,FA_13,Untreated ,M22
+M22,FA_14,Untreated ,M22
+M23,FA_15,Untreated ,M22
+M2P1,FA_16,Treated ,M2P
+M2P2,FA_17,Treated ,M2P
+M2P3,FA_18,Treated ,M2P
+M14,FA_19,Untreated ,M13
+M15,FA_20,Untreated ,M13
+M24,FA_21,Untreated ,M23
+M25,FA_22,Untreated ,M23
+M1M2P1,FA_23,Treated ,M1M2P
+M1M2P2,FA_24,Treated ,M1M2P
